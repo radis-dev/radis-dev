@@ -10,7 +10,7 @@ Apasionado por el desarrollo web y la innovación tecnológica. Disfruto compart
 
 ¡Me encantaría saber de ti! No dudes en contactarme a través de las siguientes vias.
 
-- 💬 Envíame un mensaje directo en [X](https://www.x.com/radisdev).
-- 🤝 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/radisdev).
+- 💬 Envíame un mensaje directo en [X](https://www.radis.dev/x).
+- 🤝 Conéctate conmigo en [LinkedIn](https://www.radis.dev/linkedin).
 - 📧 Escríbeme a [mi correo](mailto:contacto@radis.dev).
 - 🔍 Echa un vistazo a [mi sitio web](https://www.radis.dev) para más información.
