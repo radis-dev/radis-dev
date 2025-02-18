@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Raul 👨‍💻
 
-¡Bienvenido a mi repositorio! Soy un estudiante de F.P. Superior de Desarrollo de Aplicaciones Web con sede en España, específicamente en Madrid. Me apasiona crear soluciones innovadoras en el mundo del desarrollo web.
+¡Bienvenido a mi repositorio! Soy Raúl, aunque muchos me conocen como radisdev. Me apasiona crear soluciones innovadoras en el mundo del desarrollo web.
 
 ## 👨‍💼 Sobre mí
 
