@@ -1,10 +1,12 @@
 # 👋 ¡Hola! Soy Raul 👨‍💻
 
-¡Bienvenido a mi repositorio! Soy Raúl, aunque muchos me conocen como radisdev. Me apasiona crear soluciones innovadoras en el mundo del desarrollo web.
+¡Bienvenido a mi repositorio! Soy Raúl, desarrollador de software con pasión por la tecnología y el aprendizaje constante.
 
 ## 👨‍💼 Sobre mí
 
-Apasionado por el desarrollo web y la innovación tecnológica. Disfruto compartiendo conocimientos en reuniones de desarrolladores, conferencias y talleres. Mi entorno ideal es aquel que me desafía a evolucionar constantemente, siempre en busca de crecimiento y aprendizaje.
+Desde muy pequeñito, la programación se convirtió en mi gran pasión. Recuerdo con emoción mis primeros pasos en el mundo de la programación, trasteando con C++ en un Arduino que mi padre me regaló.
+
+Una de las cosas que más me anima es aprender. ¡Es como si mi sed de conocimiento fuera insaciable! Me lancé a ser autodidacta, devorando libros y tutoriales que encontraba en mi camino.
 
 ## 📫 Ponte en contacto
 
