@@ -11,7 +11,7 @@ Hoy tengo un enfoque claro en tres áreas donde disfruto **crear valor real a tr
 
 ⚙️ **Desarrollador Backend:** Construyo la **sala de máquinas invisible** de las aplicaciones. Diseño **arquitecturas robustas y escalables** que garantizan un rendimiento óptimo y una base sólida para el crecimiento futuro.
 
-📊 **Análisis de Datos:** Transformo **datos en decisiones estratégicas**. Mi objetivo es descubrir los insights ocultos en la información para impulsar el crecimiento y la estrategia de negocio.
+📊 **Análisis de Datos:** Transformo **datos en decisiones estratégicas**, descubriendo los insights ocultos en la información para impulsar el crecimiento y la estrategia de negocio.
 
 ☁️ **Soluciones Cloud & DevOps:** Aseguro que las soluciones tecnológicas estén siempre **disponibles, seguras y listas para crecer**, implementando **despliegues eficientes y confiables** en infraestructuras cloud.
 
