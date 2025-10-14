@@ -23,6 +23,6 @@ Y siempre estoy abierto a conversar sobre **nuevos desafíos tecnológicos**, **
 
 No dudes en contactarme a través de las siguientes vias:
 
-- 🤝 Conéctate conmigo en [LinkedIn](https://linkedin.com/in/radisdev).
-- 📧 Escríbeme a [mi correo](mailto:hola@radis.dev).
-- 🔍 Echa un vistazo a [mi sitio web](https://www.radis.dev) para más información.
+- 🤝 **LinkedIn:** [Conéctate conmigo](https://linkedin.com/in/radisdev)  
+- 📧 **Correo:** [hola@radis.dev](mailto:hola@radis.dev)  
+- 🌐 **Sitio web:** [www.radis.dev](https://www.radis.dev)
