@@ -1,18 +1,27 @@
 # 👋 ¡Hola! Soy Raul 👨‍💻
 
-¡Bienvenido a mi repositorio! Soy Raúl, desarrollador de software con pasión por la tecnología y el aprendizaje constante.
+¡Bienvenido a mi repositorio! 
+Soy **Raúl**, **Desarrollador Backend Junior** 👨‍💻 y mi lema es simple: **"Más que código, transformo ideas en soluciones eficientes."**
 
 ## 👨‍💼 Sobre mí
 
-Desde muy pequeñito, la programación se convirtió en mi gran pasión. Recuerdo con emoción mis primeros pasos en el mundo de la programación, trasteando con C++ en un Arduino que mi padre me regaló.
+Lo que empezó como una curiosidad se ha convertido en mi profesión. 
+Hoy tengo un enfoque claro en tres áreas donde disfruto **crear valor real a través de la tecnología**:
 
-Una de las cosas que más me anima es aprender. ¡Es como si mi sed de conocimiento fuera insaciable! Me lancé a ser autodidacta, devorando libros y tutoriales que encontraba en mi camino.
+⚙️ **Desarrollador Backend:** Construyo la **sala de máquinas invisible** de las aplicaciones. Diseño **arquitecturas robustas y escalables** que garantizan un rendimiento óptimo y una base sólida para el crecimiento futuro.
 
-## 📫 Ponte en contacto
+📊 **Análisis de Datos:** Transformo **datos en decisiones estratégicas**. Mi objetivo es descubrir los insights ocultos en la información para impulsar el crecimiento y la estrategia de negocio.
 
-¡Me encantaría saber de ti! No dudes en contactarme a través de las siguientes vias.
+☁️ **Soluciones Cloud & DevOps:** Aseguro que las soluciones tecnológicas estén siempre **disponibles, seguras y listas para crecer**, implementando **despliegues eficientes y confiables** en infraestructuras cloud.
 
-- 💬 Envíame un mensaje directo en [X](https://x.com/radisdev).
+## 🤝 Hablemos
+
+¡Programar mola muchísimo! 😎
+
+Y siempre estoy abierto a conversar sobre **nuevos desafíos tecnológicos**, **proyectos innovadores** o **ideas que transformar el código en valor real**.
+
+No dudes en contactarme a través de las siguientes vias:
+
 - 🤝 Conéctate conmigo en [LinkedIn](https://linkedin.com/in/radisdev).
-- 📧 Escríbeme a [mi correo](mailto:contacto@radis.dev).
+- 📧 Escríbeme a [mi correo](mailto:hola@radis.dev).
 - 🔍 Echa un vistazo a [mi sitio web](https://www.radis.dev) para más información.
