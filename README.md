@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Raul 👨‍💻
 
 ¡Bienvenido a mi repositorio! 
+
 Soy **Raúl**, **Desarrollador Backend Junior** 👨‍💻 y mi lema es simple: **"Más que código, transformo ideas en soluciones eficientes."**
 
 ## 👨‍💼 Sobre mí
